@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="ServiceConverTemp.ServWebWCFConverTemps" CodeBehind="ServWebWCFConverTemps.svc.cs" %>
